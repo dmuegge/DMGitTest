@@ -6,7 +6,7 @@ This is a test project for experimenting with Git and GitHub
 Introduction
 -------
 
-Ther is nothing of value to anyone but me (David Muegge) in this repository
+There is nothing of value in this repository
 
 Version
 -------
