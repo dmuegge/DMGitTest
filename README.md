@@ -11,7 +11,7 @@ Ther is nothing of value to anyone but me (David Muegge) in this repository
 Version
 -------
 
-0.10
+0.10 - Initial Version
 
 Disclaimer/License
 -----------
