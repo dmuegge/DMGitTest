@@ -1,0 +1,11 @@
+﻿<Project>
+  <Version>1</Version>
+  <FileID>72a4b90c-ebfc-44cf-9627-c143d4b86c47</FileID>
+  <ProjectType>1</ProjectType>
+  <Files>
+    <File ReferenceName="" Build="2">DMGitTest.psd1</File>
+    <File ReferenceName="" Build="0">DMGitTest.psm1</File>
+  </Files>
+  <StartupScript>
+  </StartupScript>
+</Project>
